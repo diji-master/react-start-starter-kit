@@ -1,0 +1,24 @@
+$red: red;
+
+$green: green;
+
+$yellow: yellow;
+$purple: purple;
+
+.env {
+  background: $green;
+  span {
+    background: yellow;
+  }
+}
+
+body {
+  background: #eee;
+}
+label {
+  margin-right: 10px;
+}
+
+h1 {
+  color: yellow;
+}
