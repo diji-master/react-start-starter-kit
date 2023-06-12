@@ -1,3 +1,9 @@
+# Author Notes
+
+These codes are just the initial setup settings for a react project.
+
+**This repository contains code that provides `React Practice Tutorials`.**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
